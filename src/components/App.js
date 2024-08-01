@@ -6,11 +6,11 @@ import About from "./About.js";
 
 function App() {
   return (
-    <div>
+    <>
       <NavBar />
       <Home />
       <About />
-    </div>
+    </>
   );
 }
 
